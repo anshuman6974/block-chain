@@ -7,7 +7,7 @@
 A decentralized platform where users can create and participate in skill-based challenges. Creators define tasks and set tokenized rewards that are awarded to winners upon completion.
 
 ## 🖼 Demo Screenshot
-![Demo](./demo.png)
+![Demo](./blokchain.png)
 
 ## 🌟 Project Vision
 To incentivize creativity, competition, and problem-solving through blockchain-enabled challenges that are transparent, fair, and immutable.
